@@ -1,0 +1,39 @@
+{
+  "slug": "abcd-events-kerala-kozhikode",
+  "name": "Abcd Events Kerala",
+  "shortName": "Abcd Events Kerala",
+  "descriptor": "Event Management",
+  "address": "20a, Al Ameen Building, near st. angelas school, Mananchira, Kozhikode, Keralam 673032",
+  "area": "Mananchira",
+  "city": "Kozhikode",
+  "district": "Kozhikode",
+  "region": "Kerala",
+  "postalCode": "673032",
+  "geo": {
+    "lat": 11.254081099999999,
+    "lng": 75.7731563
+  },
+  "mapsLink": "https://maps.google.com/?cid=16668211393923697546",
+  "phone": "+91 98952 62089",
+  "whatsapp": "919895262089",
+  "hours": "Open 9 am – 6 pm · all days",
+  "opens": "09:00",
+  "closes": "18:00",
+  "rating": 5,
+  "reviewCount": 6,
+  "reviews": [
+    {
+      "name": "Shahvana kallan",
+      "rating": 5,
+      "quote": "Team was timely and responsive. Thankyou abcdeventskerala ❤️"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://abcd-events-kerala-kozhikode.vercel.app"
+}
